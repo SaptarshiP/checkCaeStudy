@@ -8,8 +8,12 @@ class main{
 		String lname = "Pramanick";
 
 
-		if ( fname.equals( "Saptarshi" ) ){
+		
+			
+		if ( (fname.equals( "Saptarshi" ))   && ( lname.equals("Pramanick") )){
 			System.out.println("Hello Saptarhi Pramanick we are here");
+
+
 		
 		}  
 
